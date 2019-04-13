@@ -1,0 +1,297 @@
+threshold: 0.01
+ train accuracy:  0.5036949730106423
+ test accuracy:  0.5022820185998207
+threshold: 0.02
+ train accuracy:  0.5115197164050411
+ test accuracy:  0.5074979936741727
+threshold: 0.03
+ train accuracy:  0.5206480398757426
+ test accuracy:  0.518583533965916
+threshold: 0.04
+ train accuracy:  0.5298851180562938
+ test accuracy:  0.5259731860454139
+threshold: 0.05
+ train accuracy:  0.5398285703317861
+ test accuracy:  0.5368413350328094
+threshold: 0.060000000000000005
+ train accuracy:  0.5487940865549296
+ test accuracy:  0.5448836331020157
+threshold: 0.06999999999999999
+ train accuracy:  0.5583572516920025
+ test accuracy:  0.5544464901099939
+threshold: 0.08
+ train accuracy:  0.5672684348534779
+ test accuracy:  0.563575980739272
+threshold: 0.09
+ train accuracy:  0.5757991241746689
+ test accuracy:  0.5737907756219611
+threshold: 0.09999999999999999
+ train accuracy:  0.584927550996303
+ test accuracy:  0.5807461171694284
+threshold: 0.11
+ train accuracy:  0.593132227183067
+ test accuracy:  0.5905263654817542
+threshold: 0.12
+ train accuracy:  0.6025867852544795
+ test accuracy:  0.6013940423924845
+threshold: 0.13
+ train accuracy:  0.614595056281965
+ test accuracy:  0.6120436198838691
+threshold: 0.14
+ train accuracy:  0.6258425906240034
+ test accuracy:  0.6233448992116319
+threshold: 0.15000000000000002
+ train accuracy:  0.6400786057663914
+ test accuracy:  0.63638554501251
+threshold: 0.16
+ train accuracy:  0.6536081729917438
+ test accuracy:  0.6511653212481707
+threshold: 0.17
+ train accuracy:  0.6667030461949139
+ test accuracy:  0.6648574328470944
+threshold: 0.18000000000000002
+ train accuracy:  0.6812107561744799
+ test accuracy:  0.6761580040598593
+threshold: 0.19
+ train accuracy:  0.6963159526593671
+ test accuracy:  0.6922418920832744
+threshold: 0.2
+ train accuracy:  0.7182140515927855
+ test accuracy:  0.716797431902941
+threshold: 0.21000000000000002
+ train accuracy:  0.7468485347790653
+ test accuracy:  0.744185667752443
+threshold: 0.22
+ train accuracy:  0.7622256770962522
+ test accuracy:  0.7574434688193363
+threshold: 0.23
+ train accuracy:  0.7770049933264825
+ test accuracy:  0.7735273568427512
+threshold: 0.24000000000000002
+ train accuracy:  0.7897197713286797
+ test accuracy:  0.7867858660246424
+threshold: 0.25
+ train accuracy:  0.8050425362909419
+ test accuracy:  0.7983054808100836
+threshold: 0.26
+ train accuracy:  0.8161271747989087
+ test accuracy:  0.8106953689279139
+threshold: 0.27
+ train accuracy:  0.8273203465504411
+ test accuracy:  0.823518151347779
+threshold: 0.28
+ train accuracy:  0.8373725092425263
+ test accuracy:  0.8341677288391635
+threshold: 0.29000000000000004
+ train accuracy:  0.8475334709377178
+ test accuracy:  0.8411221262333003
+threshold: 0.3
+ train accuracy:  0.8572595466732811
+ test accuracy:  0.8550311570599065
+threshold: 0.31
+ train accuracy:  0.8666595354523228
+ test accuracy:  0.8635070575461455
+threshold: 0.32
+ train accuracy:  0.8745382132690785
+ test accuracy:  0.8726348959070954
+threshold: 0.33
+ train accuracy:  0.8820365891829962
+ test accuracy:  0.8787204361988387
+threshold: 0.34
+ train accuracy:  0.8886656508746441
+ test accuracy:  0.8858943492423169
+threshold: 0.35000000000000003
+ train accuracy:  0.8944795837615015
+ test accuracy:  0.8919803616107256
+threshold: 0.36000000000000004
+ train accuracy:  0.8991524337668167
+ test accuracy:  0.897196100646745
+threshold: 0.37
+ train accuracy:  0.9019778563244865
+ test accuracy:  0.9002388707926166
+threshold: 0.38
+ train accuracy:  0.9067051427424022
+ test accuracy:  0.9017608459613842
+threshold: 0.39
+ train accuracy:  0.9101826653910209
+ test accuracy:  0.9028475664447907
+threshold: 0.4
+ train accuracy:  0.9126820452854257
+ test accuracy:  0.9061077278950102
+threshold: 0.41000000000000003
+ train accuracy:  0.9131710133116002
+ test accuracy:  0.9061089080866733
+threshold: 0.42000000000000004
+ train accuracy:  0.9125190756292596
+ test accuracy:  0.9074132559127601
+threshold: 0.43
+ train accuracy:  0.9118127901208319
+ test accuracy:  0.9084990322428361
+threshold: 0.44
+ train accuracy:  0.9104543602281987
+ test accuracy:  0.9076292309871123
+threshold: 0.45
+ train accuracy:  0.908661369193154
+ test accuracy:  0.9065425105037057
+threshold: 0.46
+ train accuracy:  0.9067051870356592
+ test accuracy:  0.9032821130151536
+threshold: 0.47000000000000003
+ train accuracy:  0.9034993444597994
+ test accuracy:  0.9011072558183448
+threshold: 0.48000000000000004
+ train accuracy:  0.8989351310489824
+ test accuracy:  0.8961086720483407
+threshold: 0.49
+ train accuracy:  0.8930669684513897
+ test accuracy:  0.8898055044139168
+threshold: 0.5
+ train accuracy:  0.8885571323954974
+ test accuracy:  0.8850240759099279
+threshold: 0.51
+ train accuracy:  0.8858945909074801
+ test accuracy:  0.8802421753292734
+threshold: 0.52
+ train accuracy:  0.882471327498435
+ test accuracy:  0.8789380635415192
+threshold: 0.53
+ train accuracy:  0.8773636210623295
+ test accuracy:  0.875460982863617
+threshold: 0.54
+ train accuracy:  0.8742120524904623
+ test accuracy:  0.8706795543596281
+threshold: 0.55
+ train accuracy:  0.8696479129017398
+ test accuracy:  0.8661145730066563
+threshold: 0.56
+ train accuracy:  0.8642143852686532
+ test accuracy:  0.8619841382240476
+threshold: 0.5700000000000001
+ train accuracy:  0.8599218814594332
+ test accuracy:  0.8563329084643346
+threshold: 0.5800000000000001
+ train accuracy:  0.8557378666005221
+ test accuracy:  0.852637728367087
+threshold: 0.59
+ train accuracy:  0.8505214940410804
+ test accuracy:  0.8467698154180241
+threshold: 0.6
+ train accuracy:  0.8464462486564379
+ test accuracy:  0.8437268092338197
+threshold: 0.61
+ train accuracy:  0.8419364273649647
+ test accuracy:  0.839379691261861
+threshold: 0.62
+ train accuracy:  0.8372635035375546
+ test accuracy:  0.8326417410187414
+threshold: 0.63
+ train accuracy:  0.8337316330628491
+ test accuracy:  0.8287289335788133
+threshold: 0.64
+ train accuracy:  0.8279719889444032
+ test accuracy:  0.8215564367653307
+threshold: 0.65
+ train accuracy:  0.8219407090464547
+ test accuracy:  0.8172097908700373
+threshold: 0.66
+ train accuracy:  0.8184089271582626
+ test accuracy:  0.8156878157012699
+threshold: 0.67
+ train accuracy:  0.8148771600344897
+ test accuracy:  0.8122104989850352
+threshold: 0.68
+ train accuracy:  0.8109104183645748
+ test accuracy:  0.8061259028466223
+threshold: 0.6900000000000001
+ train accuracy:  0.8060745987030934
+ test accuracy:  0.8011270830382854
+threshold: 0.7000000000000001
+ train accuracy:  0.8026514534093996
+ test accuracy:  0.7972147476750224
+threshold: 0.7100000000000001
+ train accuracy:  0.7971635779502262
+ test accuracy:  0.7937374309587877
+threshold: 0.72
+ train accuracy:  0.7928166820216623
+ test accuracy:  0.7898253316338574
+threshold: 0.73
+ train accuracy:  0.7872745325584967
+ test accuracy:  0.7828704621630552
+threshold: 0.74
+ train accuracy:  0.7825471427896483
+ test accuracy:  0.7765687107586271
+threshold: 0.75
+ train accuracy:  0.7777112493060723
+ test accuracy:  0.7735257045744228
+threshold: 0.76
+ train accuracy:  0.7715712737559501
+ test accuracy:  0.7667879903696361
+threshold: 0.77
+ train accuracy:  0.7673874655989039
+ test accuracy:  0.7643966860218099
+threshold: 0.78
+ train accuracy:  0.7623884105217156
+ test accuracy:  0.7598319407071707
+threshold: 0.79
+ train accuracy:  0.7565745514569528
+ test accuracy:  0.7543985743284709
+threshold: 0.8
+ train accuracy:  0.7520104118682305
+ test accuracy:  0.7511379408015861
+threshold: 0.81
+ train accuracy:  0.7484784823358492
+ test accuracy:  0.7478780153896993
+threshold: 0.8200000000000001
+ train accuracy:  0.7441316159361233
+ test accuracy:  0.745487419156871
+threshold: 0.8300000000000001
+ train accuracy:  0.7398390530692275
+ test accuracy:  0.7398371335504886
+threshold: 0.8400000000000001
+ train accuracy:  0.7354378536078334
+ test accuracy:  0.7341863758674408
+threshold: 0.85
+ train accuracy:  0.7313083489836174
+ test accuracy:  0.7294049473634517
+threshold: 0.86
+ train accuracy:  0.7272332069499072
+ test accuracy:  0.7259276306472171
+threshold: 0.87
+ train accuracy:  0.7233753971628694
+ test accuracy:  0.7233201151867064
+threshold: 0.88
+ train accuracy:  0.7205498121965912
+ test accuracy:  0.7209295189538781
+threshold: 0.89
+ train accuracy:  0.7164745520475296
+ test accuracy:  0.715930227068876
+threshold: 0.9
+ train accuracy:  0.7120733673505546
+ test accuracy:  0.7117997922862673
+threshold: 0.91
+ train accuracy:  0.7090305091952802
+ test accuracy:  0.7070183637822782
+threshold: 0.92
+ train accuracy:  0.7035426927937823
+ test accuracy:  0.7033234197233631
+threshold: 0.93
+ train accuracy:  0.6993589141655742
+ test accuracy:  0.698541991219374
+threshold: 0.9400000000000001
+ train accuracy:  0.695609814795129
+ test accuracy:  0.6950658546948024
+threshold: 0.9500000000000001
+ train accuracy:  0.6909912683226438
+ test accuracy:  0.6905015814568285
+threshold: 0.9600000000000001
+ train accuracy:  0.6870246004748237
+ test accuracy:  0.6865897181702307
+threshold: 0.97
+ train accuracy:  0.6842534962144031
+ test accuracy:  0.6837638672520417
+threshold: 0.98
+ train accuracy:  0.680395671662946
+ test accuracy:  0.6796339045460982
+threshold: 0.99
+ train accuracy:  0.6769182523652599
+ test accuracy:  0.6761558797148657

@@ -1,0 +1,9 @@
+No regularization:
+Accuracy: 0.8286334056399133
+
+LASSO: lambda=1
+Accuracy: 0.9067245119305857
+
+RIDGE: lambda=10
+Accuracy: 0.9327548806941431
+

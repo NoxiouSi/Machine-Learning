@@ -1,0 +1,2 @@
+without PCA: Accuracy: 0.6876355748373102
+with PCA(10): Accuracy: 0.7960954446854663

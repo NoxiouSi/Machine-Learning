@@ -1,0 +1,36 @@
+
+\documentclass{article} 
+
+\usepackage{amsmath}
+
+
+\title{Q5}
+\author{Sicheng Wang}
+
+
+\begin{document}
+\maketitle
+
+\section{a)}
+
+\begin{align*}
+	P(A|B,C) &= \frac{P(A,B,C)}{P(B,C)}\\
+						&= \frac{\frac{P(A,B,C)}{P(C)}}{\frac{P(B,C)}{P(C)}}\\
+						&= \frac{\frac{P(A,B,C)}{P(A,C)}\frac{P(A,C)}{P(C)}}{\frac{P(B,C)}{P(C)}}\\
+						&= \frac{P(B|A,C)P(A|C)}{P(B|C)}\\
+\end{align*}
+
+\section{b)}
+
+\begin{align*}
+	P(fair, k) &= \frac{F}{F+1} * (\frac{1}{2})^k\\
+	P(double, k) &= \frac{1}{F+1} * 1^k = \frac{1}{F+1}
+\end{align*}
+To believe it is a double-headed coin better than even change, $P(double, k) > P(fair, k)$.
+\begin{align*}
+	P(fair, k) &> P(double, k)\\
+	\frac{1}{F+1} &> \frac{F}{F+1} * (\frac{1}{2})^k\\
+	1 &> \frac{F}{2^k}\\
+	k &> log_2k
+\end{align*}
+\end{document}

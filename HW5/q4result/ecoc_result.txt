@@ -1,0 +1,2 @@
+training error: 0.894643804136468
+testing error: 0.894583112055231

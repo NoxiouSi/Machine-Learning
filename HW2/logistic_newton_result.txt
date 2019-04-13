@@ -1,0 +1,5 @@
+Logistic Regression (Newton's method):
+threshold: 0.4 learning rate 0.1
+ train accuracy:  0.9293087151412068
+ test accuracy:  0.923494075437851
+1652 161 191 2597

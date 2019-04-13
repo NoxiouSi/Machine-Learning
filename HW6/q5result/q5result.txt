@@ -1,0 +1,53 @@
+Load MINST
+Traning ECOC
+Training function # 1 Training error: 0.05346666666666667
+Training function # 11 Training error: 0.09801666666666667
+Training function # 18 Training error: 0.19158333333333333
+Training function # 16 Training error: 0.41868333333333335
+Training function # 27 Training error: 0.36101666666666665
+Training function # 23 Training error: 0.5611833333333334
+Training function # 17 Training error: 0.15285
+Training function # 38 Training error: 0.10855
+Training function # 46 Training error: 0.14833333333333334
+Training function # 32 Training error: 0.06108333333333334
+Training function # 6 Training error: 0.13206666666666667
+Training function # 2 Training error: 0.23258333333333334
+Training function # 14 Training error: 0.11641666666666667
+Training function # 7 Training error: 0.05805
+Training function # 10 Training error: 0.27431666666666665
+Training function # 3 Training error: 0.25543333333333335
+Training function # 39 Training error: 0.3175
+Training function # 15 Training error: 0.16566666666666666
+Training function # 33 Training error: 0.06923333333333333
+Training function # 44 Training error: 0.14968333333333333
+Training function # 24 Training error: 0.4485166666666667
+Training function # 28 Training error: 0.12181666666666667
+Training function # 37 Training error: 0.07406666666666667
+Training function # 45 Training error: 0.11691666666666667
+Training function # 8 Training error: 0.2162
+Training function # 9 Training error: 0.0657
+Training function # 4 Training error: 0.3389
+Training function # 21 Training error: 0.08175
+Training function # 20 Training error: 0.11948333333333333
+Training function # 26 Training error: 0.11471666666666666
+Training function # 13 Training error: 0.0714
+Training function # 22 Training error: 0.17716666666666667
+Training function # 5 Training error: 0.22545
+Training function # 30 Training error: Training function #0.1724
+ 47 Training error: 0.3480666666666667
+Training function # 12 Training error: 0.06561666666666667
+Training function # 25Training function # 19 Training error: 0.23251666666666668
+ Training error: 0.0935
+Training function # 35 Training error: 0.2914833333333333
+Training function # 40 Training error: 0.10721666666666667
+Training function # 43 Training error: 0.15473333333333333
+Training function # 29 Training error: 0.07131666666666667
+Training function # 36 Training error: 0.0475
+Training function # 41 Training error: 0.25188333333333335
+Training function # 48 Training error: 0.12806666666666666
+Training function # 31 Training error: 0.08475
+Training function # 34 Training error: 0.20781666666666668
+Training function # 49 Training error: 0.18843333333333334
+Training function # 42 Training error: 0.13615
+Training function # 50 Training error: 0.09965
+Training Accuracy 0.84915

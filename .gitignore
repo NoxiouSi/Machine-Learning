@@ -1,0 +1,18 @@
+studentinfo.txt
+/*.pdf
+slides/
+lecture notes/em_berkeley.pdf
+lecture notes/
+HW6/.idea/
+HW6/__pycache__/boosting.cpython-37.pyc
+HW6/__pycache__/
+HW5/.idea/
+HW5/__pycache__/boosting.cpython-37.pyc
+HW4/__pycache__/
+HW4/.idea/
+HW3/.idea/
+HW3/__pycache__/
+HW2/src/__pycache__/
+HW2/.idea/
+HW1/src/__pycache__/
+*.zip

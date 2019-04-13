@@ -1,0 +1,162 @@
+min leaf count: 5 min info gain: 0.03
+ train accuracy:  0.979406795176169
+ test accuracy:  0.9174075909927772
+min leaf count: 5 min info gain: 0.06
+ train accuracy:  0.9313191122450185
+ test accuracy:  0.9061056035500166
+min leaf count: 5 min info gain: 0.09
+ train accuracy:  0.9159421028076018
+ test accuracy:  0.9002379266392863
+min leaf count: 5 min info gain: 0.12
+ train accuracy:  0.8884471522388765
+ test accuracy:  0.8828539394797715
+min leaf count: 5 min info gain: 0.15
+ train accuracy:  0.8642689397966054
+ test accuracy:  0.8606800264362933
+min leaf count: 5 min info gain: 0.18
+ train accuracy:  0.816561366830847
+ test accuracy:  0.8061282632299486
+min leaf count: 10 min info gain: 0.03
+ train accuracy:  0.9716910574867414
+ test accuracy:  0.9182764480951706
+min leaf count: 10 min info gain: 0.06
+ train accuracy:  0.9283849645063368
+ test accuracy:  0.9067575414247273
+min leaf count: 10 min info gain: 0.09
+ train accuracy:  0.9143663259038777
+ test accuracy:  0.9013244110843601
+min leaf count: 10 min info gain: 0.12
+ train accuracy:  0.8879037920933583
+ test accuracy:  0.8828539394797715
+min leaf count: 10 min info gain: 0.15
+ train accuracy:  0.8641059110827636
+ test accuracy:  0.8611148090449889
+min leaf count: 10 min info gain: 0.18
+ train accuracy:  0.8164526711786732
+ test accuracy:  0.8061282632299486
+min leaf count: 15 min info gain: 0.03
+ train accuracy:  0.9641928292170133
+ test accuracy:  0.9156684605579948
+min leaf count: 15 min info gain: 0.06
+ train accuracy:  0.9262115682175212
+ test accuracy:  0.9056708209413209
+min leaf count: 15 min info gain: 0.09
+ train accuracy:  0.912736334053837
+ test accuracy:  0.9008896284756645
+min leaf count: 15 min info gain: 0.12
+ train accuracy:  0.8875777937233502
+ test accuracy:  0.8832887220884672
+min leaf count: 15 min info gain: 0.15
+ train accuracy:  0.8638885788360915
+ test accuracy:  0.8611148090449889
+min leaf count: 15 min info gain: 0.18
+ train accuracy:  0.8164526711786732
+ test accuracy:  0.8061282632299486
+min leaf count: 20 min info gain: 0.03
+ train accuracy:  0.9593025583785124
+ test accuracy:  0.9150174668366142
+min leaf count: 20 min info gain: 0.06
+ train accuracy:  0.9240381423998677
+ test accuracy:  0.9050188830666099
+min leaf count: 20 min info gain: 0.09
+ train accuracy:  0.9114866736354724
+ test accuracy:  0.9006722371713167
+min leaf count: 20 min info gain: 0.12
+ train accuracy:  0.8875234606616822
+ test accuracy:  0.883506113392815
+min leaf count: 20 min info gain: 0.15
+ train accuracy:  0.8638885788360915
+ test accuracy:  0.8611148090449889
+min leaf count: 20 min info gain: 0.18
+ train accuracy:  0.8164526711786732
+ test accuracy:  0.8061282632299486
+min leaf count: 25 min info gain: 0.03
+ train accuracy:  0.9545752867250157
+ test accuracy:  0.9119744606524097
+min leaf count: 25 min info gain: 0.06
+ train accuracy:  0.9216473400422853
+ test accuracy:  0.9041495538875515
+min leaf count: 25 min info gain: 0.09
+ train accuracy:  0.9104542864061042
+ test accuracy:  0.9006722371713167
+min leaf count: 25 min info gain: 0.12
+ train accuracy:  0.8873604614766781
+ test accuracy:  0.883506113392815
+min leaf count: 25 min info gain: 0.15
+ train accuracy:  0.8638342457744234
+ test accuracy:  0.8613322003493368
+min leaf count: 25 min info gain: 0.18
+ train accuracy:  0.8164526711786732
+ test accuracy:  0.8061282632299486
+min leaf count: 30 min info gain: 0.03
+ train accuracy:  0.952238861722358
+ test accuracy:  0.9119742246140772
+min leaf count: 30 min info gain: 0.06
+ train accuracy:  0.9207236041718343
+ test accuracy:  0.9045841004579145
+min leaf count: 30 min info gain: 0.09
+ train accuracy:  0.9098022896660879
+ test accuracy:  0.9008896284756645
+min leaf count: 30 min info gain: 0.12
+ train accuracy:  0.8873061284150101
+ test accuracy:  0.8837235046971628
+min leaf count: 30 min info gain: 0.15
+ train accuracy:  0.8638342457744234
+ test accuracy:  0.8613322003493368
+min leaf count: 30 min info gain: 0.18
+ train accuracy:  0.8164526711786732
+ test accuracy:  0.8061282632299486
+min leaf count: 35 min info gain: 0.03
+ train accuracy:  0.9498479117205865
+ test accuracy:  0.9147993674172685
+min leaf count: 35 min info gain: 0.06
+ train accuracy:  0.9200172153124742
+ test accuracy:  0.9039328706982015
+min leaf count: 35 min info gain: 0.09
+ train accuracy:  0.9094219582344116
+ test accuracy:  0.9011070197800123
+min leaf count: 35 min info gain: 0.12
+ train accuracy:  0.887088796168338
+ test accuracy:  0.8837235046971628
+min leaf count: 35 min info gain: 0.15
+ train accuracy:  0.8638342457744234
+ test accuracy:  0.8613322003493368
+min leaf count: 35 min info gain: 0.18
+ train accuracy:  0.8164526711786732
+ test accuracy:  0.8061282632299486
+min leaf count: 40 min info gain: 0.03
+ train accuracy:  0.9478375589100315
+ test accuracy:  0.9147993674172685
+min leaf count: 40 min info gain: 0.06
+ train accuracy:  0.9184415565241014
+ test accuracy:  0.9039328706982014
+min leaf count: 40 min info gain: 0.09
+ train accuracy:  0.9081179647543791
+ test accuracy:  0.9011070197800123
+min leaf count: 40 min info gain: 0.12
+ train accuracy:  0.8865997986133258
+ test accuracy:  0.8839408960015106
+min leaf count: 40 min info gain: 0.15
+ train accuracy:  0.8636712465894194
+ test accuracy:  0.8615495916536846
+min leaf count: 40 min info gain: 0.18
+ train accuracy:  0.8164526711786732
+ test accuracy:  0.8061282632299486
+min leaf count: 45 min info gain: 0.03
+ train accuracy:  0.9457728730378088
+ test accuracy:  0.9141471935042251
+min leaf count: 45 min info gain: 0.06
+ train accuracy:  0.9175722275374131
+ test accuracy:  0.9034980880895057
+min leaf count: 45 min info gain: 0.09
+ train accuracy:  0.907846299446039
+ test accuracy:  0.9008896284756645
+min leaf count: 45 min info gain: 0.12
+ train accuracy:  0.8864911324899898
+ test accuracy:  0.8839408960015106
+min leaf count: 45 min info gain: 0.15
+ train accuracy:  0.8636712465894194
+ test accuracy:  0.8615495916536846
+min leaf count: 45 min info gain: 0.18
+ train accuracy:  0.8164526711786732
+ test accuracy:  0.8061282632299486

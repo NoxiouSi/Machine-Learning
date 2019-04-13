@@ -1,0 +1,8 @@
+iteration 1 , total mistake: 283
+iteration 2 , total mistake: 321
+iteration 3 , total mistake: 220
+iteration 4 , total mistake: 169
+iteration 5 , total mistake: 89
+iteration 6 , total mistake: 0
+Classifier weights: [2.09613228 0.10746497 0.01382512 0.07456444 0.07795897]
+Normalized with threshold: [-0.05126822 -0.00659554 -0.03557239 -0.03719182]

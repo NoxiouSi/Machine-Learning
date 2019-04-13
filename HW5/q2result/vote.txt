@@ -1,0 +1,55 @@
+using 5% as training:
+epoch 1 training error 0 test error 5
+epoch 2 training error 0 test error 4
+epoch 3 training error 0 test error 3
+epoch 4 training error 0 test error 12
+epoch 5 training error 0 test error 9
+training error: 0.0 test error: 0.14224137931034483 auc: 0.9282407407407408
+
+using 10% as training:
+epoch 1 training error 0 test error 11
+epoch 2 training error 0 test error 2
+epoch 3 training error 0 test error 2
+epoch 4 training error 0 test error 2
+epoch 5 training error 0 test error 3
+training error: 0.0 test error: 0.08620689655172414 auc: 0.9346251493428913
+
+using 15% as training:
+epoch 1 training error 0 test error 9
+epoch 2 training error 0 test error 1
+epoch 3 training error 0 test error 0
+epoch 4 training error 0 test error 4
+epoch 5 training error 0 test error 3
+training error: 0.0 test error: 0.07327586206896551 auc: 0.9683766427718041
+
+using 20% as training:
+epoch 1 training error 0 test error 3
+epoch 2 training error 0 test error 4
+epoch 3 training error 0 test error 8
+epoch 4 training error 0 test error 10
+epoch 5 training error 0 test error 5
+training error: 0.0 test error: 0.12931034482758622 auc: 0.9118876941457588
+
+using 30% as training:
+epoch 1 training error 0 test error 5
+epoch 2 training error 0 test error 8
+epoch 3 training error 2 test error 5
+epoch 4 training error 1 test error 5
+epoch 5 training error 1 test error 2
+training error: 0.017241379310344827 test error: 0.10775862068965517 auc: 0.9478419952210274
+
+using 50% as training:
+epoch 1 training error 0 test error 1
+epoch 2 training error 0 test error 4
+epoch 3 training error 0 test error 2
+epoch 4 training error 0 test error 2
+epoch 5 training error 1 test error 2
+training error: 0.004310344827586207 test error: 0.04741379310344827 auc: 0.9841696535244921
+
+using 80% as training:
+epoch 1 training error 0 test error 3
+epoch 2 training error 1 test error 3
+epoch 3 training error 4 test error 1
+epoch 4 training error 7 test error 1
+epoch 5 training error 0 test error 2
+training error: 0.05172413793103448 test error: 0.04310344827586207 auc: 0.983273596176822

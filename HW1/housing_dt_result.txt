@@ -1,0 +1,251 @@
+min leaf count: 1 min variant: 5
+ train error:  5.853393667148864
+ test error:  32.5288448530601
+
+min leaf count: 1 min variant: 10
+ train error:  9.47323360139046
+ test error:  29.823716253050442
+
+min leaf count: 1 min variant: 15
+ train error:  12.776278112637117
+ test error:  27.200450106479217
+
+min leaf count: 1 min variant: 20
+ train error:  14.916119088929063
+ test error:  27.713116600865526
+
+min leaf count: 1 min variant: 25
+ train error:  15.533491930675458
+ test error:  24.805451435700363
+
+min leaf count: 1 min variant: 30
+ train error:  24.06661537064878
+ test error:  23.636978424592428
+
+min leaf count: 1 min variant: 35
+ train error:  24.357921108790542
+ test error:  23.524773416329726
+
+min leaf count: 1 min variant: 40
+ train error:  26.380641879732188
+ test error:  22.9969401878448
+
+min leaf count: 1 min variant: 45
+ train error:  32.68259725092945
+ test error:  24.04992899458485
+
+min leaf count: 4 min variant: 5
+ train error:  8.995302828041858
+ test error:  26.272369627834873
+
+min leaf count: 4 min variant: 10
+ train error:  11.561863316555971
+ test error:  25.22483487166906
+
+min leaf count: 4 min variant: 15
+ train error:  14.093545241197546
+ test error:  22.717784941314054
+
+min leaf count: 4 min variant: 20
+ train error:  16.075126017335528
+ test error:  22.403255489754418
+
+min leaf count: 4 min variant: 25
+ train error:  16.306521183947208
+ test error:  22.403255489754418
+
+min leaf count: 4 min variant: 30
+ train error:  24.656318988816604
+ test error:  22.809782478646483
+
+min leaf count: 4 min variant: 35
+ train error:  24.947624726958367
+ test error:  22.69757747038378
+
+min leaf count: 4 min variant: 40
+ train error:  26.73169653716098
+ test error:  22.9969401878448
+
+min leaf count: 4 min variant: 45
+ train error:  33.033651908358244
+ test error:  24.04992899458485
+
+min leaf count: 7 min variant: 5
+ train error:  14.069398286086505
+ test error:  25.11078148969673
+
+min leaf count: 7 min variant: 10
+ train error:  16.022855618326563
+ test error:  24.330833783080468
+
+min leaf count: 7 min variant: 15
+ train error:  18.44680659608592
+ test error:  23.765275031404144
+
+min leaf count: 7 min variant: 20
+ train error:  20.071079827959085
+ test error:  23.260475309574236
+
+min leaf count: 7 min variant: 25
+ train error:  20.27955929018277
+ test error:  23.260475309574236
+
+min leaf count: 7 min variant: 30
+ train error:  27.352634616222293
+ test error:  23.095750947114947
+
+min leaf count: 7 min variant: 35
+ train error:  27.488432271223186
+ test error:  22.880178821735132
+
+min leaf count: 7 min variant: 40
+ train error:  28.349971363950818
+ test error:  22.9969401878448
+
+min leaf count: 7 min variant: 45
+ train error:  33.033651908358244
+ test error:  24.04992899458485
+
+min leaf count: 10 min variant: 5
+ train error:  15.602821001361994
+ test error:  26.841570598980347
+
+min leaf count: 10 min variant: 10
+ train error:  16.925025565905287
+ test error:  27.702949237310214
+
+min leaf count: 10 min variant: 15
+ train error:  19.08543182061761
+ test error:  26.99089565202477
+
+min leaf count: 10 min variant: 20
+ train error:  20.709705052490776
+ test error:  26.486095930194857
+
+min leaf count: 10 min variant: 25
+ train error:  20.709705052490776
+ test error:  26.486095930194857
+
+min leaf count: 10 min variant: 30
+ train error:  27.782780378530298
+ test error:  26.32137156773557
+
+min leaf count: 10 min variant: 35
+ train error:  27.91857803353119
+ test error:  26.105799442355753
+
+min leaf count: 10 min variant: 40
+ train error:  28.780117126258816
+ test error:  26.222560808465424
+
+min leaf count: 10 min variant: 45
+ train error:  33.29462316830178
+ test error:  27.27554961520547
+
+min leaf count: 13 min variant: 5
+ train error:  16.190533500820454
+ test error:  26.090625916998473
+
+min leaf count: 13 min variant: 10
+ train error:  17.179142138260314
+ test error:  26.506002893032054
+
+min leaf count: 13 min variant: 15
+ train error:  19.32434777244869
+ test error:  25.844043399772517
+
+min leaf count: 13 min variant: 20
+ train error:  20.948621004321854
+ test error:  25.339243677942605
+
+min leaf count: 13 min variant: 25
+ train error:  20.948621004321854
+ test error:  25.339243677942605
+
+min leaf count: 13 min variant: 30
+ train error:  27.99289629187023
+ test error:  25.449377611279115
+
+min leaf count: 13 min variant: 35
+ train error:  28.12869394687112
+ test error:  25.2338054858993
+
+min leaf count: 13 min variant: 40
+ train error:  28.926318489945167
+ test error:  25.255321919576534
+
+min leaf count: 13 min variant: 45
+ train error:  33.29462316830178
+ test error:  27.27554961520547
+
+min leaf count: 16 min variant: 5
+ train error:  18.878329817667577
+ test error:  26.6650073381844
+
+min leaf count: 16 min variant: 10
+ train error:  19.716417237295225
+ test error:  26.673089571522354
+
+min leaf count: 16 min variant: 15
+ train error:  21.649582440974925
+ test error:  26.076515256552977
+
+min leaf count: 16 min variant: 20
+ train error:  23.22929402202778
+ test error:  25.572851448212877
+
+min leaf count: 16 min variant: 25
+ train error:  23.22929402202778
+ test error:  25.572851448212877
+
+min leaf count: 16 min variant: 30
+ train error:  30.27356930957616
+ test error:  25.682985381549386
+
+min leaf count: 16 min variant: 35
+ train error:  30.409366964577046
+ test error:  25.46741325616957
+
+min leaf count: 16 min variant: 40
+ train error:  31.03322459904008
+ test error:  25.29841069508674
+
+min leaf count: 16 min variant: 45
+ train error:  34.326590725763566
+ test error:  27.21698612620627
+
+min leaf count: 19 min variant: 5
+ train error:  19.5994715411006
+ test error:  26.159101649114426
+
+min leaf count: 19 min variant: 10
+ train error:  20.35278809060191
+ test error:  26.46169985778379
+
+min leaf count: 19 min variant: 15
+ train error:  22.149913937083767
+ test error:  26.129113446342934
+
+min leaf count: 19 min variant: 20
+ train error:  23.72935827960148
+ test error:  25.625300713568198
+
+min leaf count: 19 min variant: 25
+ train error:  23.72935827960148
+ test error:  25.625300713568198
+
+min leaf count: 19 min variant: 30
+ train error:  30.773633567149858
+ test error:  25.735434646904707
+
+min leaf count: 19 min variant: 35
+ train error:  30.909431222150747
+ test error:  25.519862521524885
+
+min leaf count: 19 min variant: 40
+ train error:  31.53328885661378
+ test error:  25.35085996044206
+
+min leaf count: 19 min variant: 45
+ train error:  34.772410768330246
+ test error:  27.185287467686155

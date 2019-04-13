@@ -1,0 +1,55 @@
+using 5% as training:
+epoch 1 training error 0 test error 35
+epoch 2 training error 0 test error 26
+epoch 3 training error 0 test error 17
+epoch 4 training error 0 test error 28
+epoch 5 training error 0 test error 19
+training error: 0.0 test error: 0.19142419601837674 auc: 0.8499413278825043
+
+using 10% as training:
+epoch 1 training error 0 test error 33
+epoch 2 training error 0 test error 19
+epoch 3 training error 0 test error 32
+epoch 4 training error 0 test error 35
+epoch 5 training error 0 test error 23
+training error: 0.0 test error: 0.21745788667687596 auc: 0.8712194337194338
+
+using 15% as training:
+epoch 1 training error 0 test error 30
+epoch 2 training error 0 test error 27
+epoch 3 training error 0 test error 23
+epoch 4 training error 0 test error 21
+epoch 5 training error 0 test error 20
+training error: 0.0 test error: 0.18529862174578868 auc: 0.8926158301158301
+
+using 20% as training:
+epoch 1 training error 0 test error 26
+epoch 2 training error 0 test error 19
+epoch 3 training error 0 test error 30
+epoch 4 training error 0 test error 18
+epoch 5 training error 0 test error 20
+training error: 0.0 test error: 0.17304747320061256 auc: 0.8913051707169354
+
+using 30% as training:
+epoch 1 training error 1 test error 14
+epoch 2 training error 0 test error 20
+epoch 3 training error 0 test error 29
+epoch 4 training error 0 test error 16
+epoch 5 training error 3 test error 22
+training error: 0.006125574272588055 test error: 0.1546707503828484 auc: 0.8985256264668029
+
+using 50% as training:
+epoch 1 training error 15 test error 18
+epoch 2 training error 18 test error 21
+epoch 3 training error 5 test error 20
+epoch 4 training error 17 test error 25
+epoch 5 training error 20 test error 24
+training error: 0.11485451761102604 test error: 0.16539050535987748 auc: 0.8923650541297601
+
+using 80% as training:
+epoch 1 training error 33 test error 20
+epoch 2 training error 19 test error 18
+epoch 3 training error 23 test error 16
+epoch 4 training error 41 test error 22
+epoch 5 training error 28 test error 23
+training error: 0.22052067381316998 test error: 0.15160796324655437 auc: 0.9090203649027179

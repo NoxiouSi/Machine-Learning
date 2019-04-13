@@ -1,0 +1,55 @@
+using 5% as training:
+epoch 1 training error 0 test error 9
+epoch 2 training error 0 test error 7
+epoch 3 training error 0 test error 4
+epoch 4 training error 0 test error 5
+epoch 5 training error 0 test error 8
+training error 0.0 test error 0.14224137931034483
+
+using 10% as training:
+epoch 1 training error 0 test error 4
+epoch 2 training error 0 test error 5
+epoch 3 training error 0 test error 8
+epoch 4 training error 0 test error 8
+epoch 5 training error 0 test error 4
+training error 0.0 test error 0.125
+
+using 15% as training:
+epoch 1 training error 0 test error 5
+epoch 2 training error 0 test error 3
+epoch 3 training error 0 test error 2
+epoch 4 training error 0 test error 7
+epoch 5 training error 0 test error 5
+training error 0.0 test error 0.09482758620689655
+
+using 20% as training:
+epoch 1 training error 0 test error 6
+epoch 2 training error 0 test error 3
+epoch 3 training error 0 test error 2
+epoch 4 training error 0 test error 3
+epoch 5 training error 0 test error 4
+training error 0.0 test error 0.07758620689655173
+
+using 30% as training:
+epoch 1 training error 0 test error 2
+epoch 2 training error 0 test error 2
+epoch 3 training error 0 test error 8
+epoch 4 training error 0 test error 2
+epoch 5 training error 0 test error 4
+training error 0.0 test error 0.07758620689655173
+
+using 50% as training:
+epoch 1 training error 0 test error 2
+epoch 2 training error 1 test error 4
+epoch 3 training error 0 test error 3
+epoch 4 training error 2 test error 2
+epoch 5 training error 0 test error 3
+training error 0.01293103448275862 test error 0.0603448275862069
+
+using 80% as training:
+epoch 1 training error 2 test error 3
+epoch 2 training error 6 test error 2
+epoch 3 training error 0 test error 1
+epoch 4 training error 0 test error 2
+epoch 5 training error 1 test error 3
+training error 0.03879310344827586 test error 0.04741379310344827

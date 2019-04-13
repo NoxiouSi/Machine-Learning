@@ -1,0 +1,35 @@
+Reading data
+Training
+Training function # 1 Training accuracy: 0.28663602616227685
+Training function # 2 Training accuracy: 0.5562135407459784
+Training function # 3 Training accuracy: 0.23289729538624712
+Training function # 4 Training accuracy: 0.6602439455541806
+Training function # 5 Training accuracy: 0.2621530846738554
+Training function # 6 Training accuracy: 0.24474102881385892
+Training function # 7 Training accuracy: 0.626922397030228
+Training function # 8 Training accuracy: 0.6091567968888103
+Training function # 9 Training accuracy: 0.47021389429025984
+Training function # 10 Training accuracy: 0.4449354781686406
+Training function # 11 Training accuracy: 0.40171468976489305
+Training function # 12 Training accuracy: 0.39075481704083437
+Training function # 13 Training accuracy: 0.2680749513876613
+Training function # 14 Training accuracy: 0.6619232808909316
+Training function # 15 Training accuracy: 0.4775499381297508
+Training function # 16 Training accuracy: 0.6270107831005833
+Training function # 17 Training accuracy: 0.9475870602793
+Training function # 18 Training accuracy: 0.33904896588297684
+Training function # 19 Training accuracy: 0.4259324730422485
+Training function # 20 Training accuracy: 0.6506982499558069
+Training function # 21 Training accuracy: 0.34921336397383773
+Training function # 22 Training accuracy: 0.6841081845501149
+Training function # 23 Training accuracy: 0.7889340639915149
+Training function # 24 Training accuracy: 0.285840551529079
+Training function # 25 Training accuracy: 0.9483825349124978
+Training function # 26 Training accuracy: 0.598020152024041
+Training function # 27 Training accuracy: 0.8426727947675446
+Training function # 28 Training accuracy: 0.7672794767544635
+Training function # 29 Training accuracy: 0.545607212303341
+Training function # 30 Training accuracy: 0.36786282481880855
+Testing
+training error: 0.8942018737846915
+testing error: 0.8943175783324482

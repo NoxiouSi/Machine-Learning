@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>HW3</title>
+    <meta name="CREATED" content="20050506;19503200">
+    <meta name="CHANGED" content="20060531;23041200">
+  </head>
+  <body xml:lang="en-US">
+    <h1><font face="Luxi Sans">CS6140 Machine Learning</font></h1>
+    <h1><font face="Luxi Sans">HW3 -Neural Networks<br>
+      </font></h1>
+    <p>Make sure you check the <a href="../../html/schedulen.html"><font
+          face="Luxi Sans">syllabus</font></a> for the due date. Please
+      use the notations adopted in class, even if the problem is stated
+      in the book using a different notation.</p>
+    <p><br>
+    </p>
+    
+   
+    
+    <hr>
+    <!-- <h3>Make sure to read the notes on Gradient Descent for Regression,
+      and chapter 5 of DHS, up to (including 5.6 Relaxation Procedures)<br>
+    </h3> -->
+
+    <h3>PROBLEM 1 [30 points] Autoencoder Neural Network<br>
+    </h3>
+    <p>Consider the following neural network (left graph), with 8 input
+      units (for data with 8 features), 3 hidden units and 8 output
+      units, and assume the nonlinear functions are all sigmoid. </p>
+    <img alt="picture" src="autoencod838.jpg" height="309" width="779">
+    <p>a)The 8 training data inputs are identical with the outputs, as
+      shown in the right side table. Implement this network and the
+      backpropagation algorithm (square loss, sigmoid function) to compute all the network weights; you
+      should initialize the weights with nontrivial values (i.e not
+      values that already minimize the erorr). </p>
+    <p>HINT: on the trained network, you should obtain values for the
+      hidden units somehow similar with the ones shown in the table (up
+      to symmetry). Feel free to make changes to the algorithm that suit
+      your implementation, but briefly document them. </p>
+    <p>b) Since the outputs and inputs are identical for each datapoint,
+      one can view this network as an encoder-decoder mechanism. (this
+      is one of the uses of neural networks). In this context, explain
+      the purpose of the training algorithm. (I expect a rather
+      nontechnical --but documented-- answer).</p>
+    <!-- <p>c) Can this encoder-decoder scheme work with 1 hidden unit? Can
+      it work with 2 hidden units? What if there are more than 8 inputs
+      and outputs? Justify your answers mathematically.</p> -->
+    Hints: Some students worked easier from<a
+      href="Screen_Shot_20140220_at_6.53.58_PM.png"> this algorithm</a>,
+    rather than the one from 
+    <a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/mlbook/ch4.pdf">Mitchell's book</a>
+
+
+<!-- ============================== -->
+    <h3>PROBLEM 2 [20 points] Autoencoder Neural Network<br></h3>
+    Imlement the Autoencoder Network in PB1 using TensorFlow, and compare with your own implementation. You can use other NNet libraries, but TAs might not be able to help as much. 
+
+<!-- ============================== -->
+    <h3>PROBLEM 3 [30 points] Classifier Square Loss Neural Network<br></h3>
+     Wine Dataset : <a href=../../data/train_wine.csv > train </a>  ; <a href=../../data/test_wine.csv > test </a><br> 
+    Implement a multi-class supervised Neural Network. Train and test on wine data (3 labels, 12 features). Use a square loss and a sigmoid activation function.
+
+<!-- ============================== -->
+    <h3>PROBLEM 4 [20 points] Classifier Square Loss Neural Network<br></h3>
+   Train and test the network in PB3 using TensorFlow. 
+
+<!-- ============================== -->
+    <h3>PROBLEM 5 [30 points GR-ONLY] Classifier Max Likelihood Neural Network<br></h3>
+    Implement a multi-class supervised Neural Network using <a href = ../lecture_notes/max_likelihood_derivation/eq.pdf> likelihod objective </a>. Train and test on wine data. <br>
+    Use the <a href=https://en.wikipedia.org/wiki/Cross_entropy> Maximum Likelihood (cross entropy) </a> for loss function. <br>
+    Use <a href=https://en.wikipedia.org/wiki/Softmax_function> SoftMax activation</a> function for output layer. <br>
+    Use either sigmoid or <a href=https://en.wikipedia.org/wiki/Rectifier_(neural_networks)> RELU activation</a> function for hidden layer <br>
+
+<!-- ============================== -->
+    <h3>PROBLEM 6 [20 points GR-ONLY] Classifier Max Likelihood Neural Network<br></h3>
+   Train and test the network in PB5 using TensorFlow. 
+
+<!-- ============================== -->
+    <h3>PROBLEM 7 [Extra Credit] </h3> Run your Max Likelihood Neural Network on a medium-size dataset
+	    
+	    <br> 
+	    <a href=https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html#sklearn.datasets.load_digits > Digits_small </a> <br><br>
+	    
+	   ..and on a larger dataset <br>
+	  Digits Large Dataset (Training <a
+        href="../../data/digit_images/train-images-idx3-ubyte.gz">data</a>,
+      <a href="../../data/digit_images/train-labels-idx1-ubyte.gz">
+        labels</a>.&nbsp; Testing <a
+        href="../../data/digit_images/t10k-images-idx3-ubyte.gz">data</a>,
+      <a href="../../data/digit_images/t10k-labels-idx1-ubyte.gz">
+        labels</a>): about 60,000 images, each 28x28 pixels representing
+      digit scans. Each image is labeled with the digit represented, one
+      of 10 classes: 0,1,2,...,9.<br>
+    
+	    
+
+   
+   
+   
+    <span style="font-weight: bold;"></span>
+    <h3><br>
+    </h3>
+    <br>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </body>
+</html>
